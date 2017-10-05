@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 	"strings"
-  "io/ioutil"
+  	"io/ioutil"
 	"log"
-  "os"
-  "path/filepath"
+  	"os"
+  	"path/filepath"
 	"strconv"
 )
 
@@ -35,8 +35,6 @@ func main() {
 
   check(dir, search, dir);
 }
-
-// test
 
 func check(filename, search, dir string) {
   filename, _ = filepath.Abs(filename);
