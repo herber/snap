@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 	"strings"
-  	"io/ioutil"
+	"io/ioutil"
 	"log"
-  	"os"
-  	"path/filepath"
+	"os"
+	"path/filepath"
 	"strconv"
 )
 

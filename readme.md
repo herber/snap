@@ -3,6 +3,7 @@
 > Search from the commandline
 
 ## Usage
+
 ```bash
 $ ls
 file.txt  dir
